@@ -1,0 +1,13 @@
+{
+    "name": "Frontend CI",
+    "description": "Frontend CI template npm.",
+    "iconName": "example-icon",
+    "categories": [
+        ""
+    ],
+    "filePatterns": [
+        "",
+        "",
+        ""
+    ]
+}
